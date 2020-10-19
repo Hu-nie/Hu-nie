@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ***
 
-# Publication
+<!--# Publication
 
 
 • Ji-Soo Kang, Dong-Hoon Shin, Ji-Won Baek, Kyungyong Chung, "Activity Recommendation Model using Rank Correlation for Chronic Stress Management", Applied Sciences, Vol.9, No.20, pp.4284-4296, Oct 2019. https://doi.org/10.3390/app9204284
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 • Dong-Hoon Shin, Kyungyong Chung, Roy C. Park, "Prediction of Traffic Congestion Based on LSTM through Correction of Missing Temporal and Spatial Data", IEEE Access, Vol.8, No.1, pp. 150784-150796, 13 Aug 2020. https://doi.org/10.1109/ACCESS.2020.3016469
 
 • Seong-Eun Ryu, Dong-Hoon Shin, Kyungyong Chung, "Prediction Model of Dementia Risk Based on XGBoost Using Derived Variable Extraction and Hyper Parameter Optimization", IEEE Access, Vol.8, No.1, pp. 177708-177720, 21 Sep 2020. https://doi.org/10.1109/ACCESS.2020.3025553
-
+-->
 
 
 
