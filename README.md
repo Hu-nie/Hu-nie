@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 
 ![Hu-nie github stats](https://github-readme-stats.vercel.app/api?username=Hu-nie&show_icons=true)
+
+
+![PYTHON](https://img.shields.io/badge/PYTHON-%20beginner-blue)
