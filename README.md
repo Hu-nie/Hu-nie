@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # Publication
 
-• Seong-Eun Ryu, Dong-Hoon Shin, Kyungyong Chung, "Prediction Model of Dementia Risk Based on XGBoost Using Derived Variable Extraction and Hyper Parameter Optimization", IEEE Access, Vol.8, No.1, pp. 177708-177720, 21 Sep 2020. https://doi.org/10.1109/ACCESS.2020.3025553
+• Seong-Eun Ryu, Dong-Hoon Shin, Kyungyong Chung, "Prediction Model of Dementia Risk Based on XGBoost Using Derived Variable Extraction and Hyper Parameter Optimization", IEEE Access, Vol.8, No.1, pp. 177708-177720, 21 Sep 2020.https://doi.org/10.1109/ACCESS.2020.3025553
 
 • Dong-Hoon Shin, Kyungyong Chung, Roy C. Park, "Prediction of Traffic Congestion Based on LSTM through Correction of Missing Temporal and Spatial Data", IEEE Access, Vol.8, No.1, pp. 150784-150796, 13 Aug 2020. https://doi.org/10.1109/ACCESS.2020.3016469
 
