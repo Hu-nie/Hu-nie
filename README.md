@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHu-nie%2FHu-nie&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![PYTHON](https://img.shields.io/badge/PYTHON-%20beginner-blue)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHu-nie%2FHu-nie&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
+![PYTHON](https://img.shields.io/badge/PYTHON-%20beginner-blue)
+
+![DeepLearning](https://img.shields.io/badge/DeepLearning-Reseacher-red)
 
 ![Hu-nie github stats](https://github-readme-stats.vercel.app/api?username=Hu-nie&show_icons=true)
 
