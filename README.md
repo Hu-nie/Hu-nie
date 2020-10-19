@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 # Paper Review
 
 ### GAN
-•[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://hu-nie.tistory.com/2, "AnoGAN")
+•[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery(작성중)](https://hu-nie.tistory.com/2, "AnoGAN") 
 
 ***
 
