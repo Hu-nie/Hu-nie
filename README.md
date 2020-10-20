@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 
 ![Hu-nie github stats](https://github-readme-stats.vercel.app/api?username=Hu-nie&show_icons=true)
 
-***
-
-# Paper Review
-
-### GAN
-•[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery(작성중)](https://hu-nie.tistory.com/2, "AnoGAN") 
 
 ***
 
@@ -53,6 +47,13 @@ Here are some ideas to get you started:
 # Domestic Papers
 
 • 신동훈, 김민정, 오상엽, 정경용, 다중상황의 군집분석과 연관규칙을 이용한 지식추론 모델, 한국융합학회논문지, 제10권, 제9호, pp.11-16, 2019.9.
+
+***
+
+# Paper Review
+
+### GAN
+•[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery(작성중)](https://hu-nie.tistory.com/2, "AnoGAN") 
 
 <!--
 # International Papers
