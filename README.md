@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 # Domestic Papers
 
 • 신동훈, 김민정, 오상엽, 정경용, 다중상황의 군집분석과 연관규칙을 이용한 지식추론 모델, 한국융합학회논문지, 제10권, 제9호, pp.11-16, 2019.9.
-<--!
+
+<!--
 # International Papers
 
 
@@ -69,6 +70,6 @@ Here are some ideas to get you started:
 • Seong-Eun Ryu, Dong-Hoon Shin, Kyungyong Chung, "Prediction Model of Dementia Risk Based on XGBoost Using Derived Variable Extraction and Hyper Parameter Optimization", IEEE Access, Vol.8, No.1, pp. 177708-177720, 21 Sep 2020. https://doi.org/10.1109/ACCESS.2020.3025553
 
 
-
+-->
 
 
