@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 • Chang-Min Kim, Dong-Hoon Shin, Ji-Soo Kang, Kyungyong Chung, Roy C. Park, Input Dimensionality Reduction Algorithm for Shortening Run-Time in Deep Learning Model, The 3rd International Conference on Interdisciplinary research on Computer science, Psychology, and Education (ICICPE’ 2019), pp. 68-73, Phu Quoc, Vietnam, Dec 17-19, 2019.
 
-# MY Domestic Publication
 
 # MY Domestic Publication
 
