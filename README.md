@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 • Chang-Min Kim, Dong-Hoon Shin, Ji-Soo Kang, Kyungyong Chung, Roy C. Park, Input Dimensionality Reduction Algorithm for Shortening Run-Time in Deep Learning Model, The 3rd International Conference on Interdisciplinary research on Computer science, Psychology, and Education (ICICPE’ 2019), pp. 68-73, Phu Quoc, Vietnam, Dec 17-19, 2019.
 
 
-# MY Domestic Publication
+# Domestic Papers
 
 • 신동훈, 김민정, 오상엽, 정경용, 다중상황의 군집분석과 연관규칙을 이용한 지식추론 모델, 한국융합학회논문지, 제10권, 제9호, pp.11-16, 2019.9.
 
-# MY international Publication
+# International Papers
 
 
 • Ji-Soo Kang, Dong-Hoon Shin, Ji-Won Baek, Kyungyong Chung, "Activity Recommendation Model using Rank Correlation for Chronic Stress Management", Applied Sciences, Vol.9, No.20, pp.4284-4296, Oct 2019. https://doi.org/10.3390/app9204284
