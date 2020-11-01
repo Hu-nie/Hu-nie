@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 
 ### GAN
 •[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery(작성중)](https://hu-nie.tistory.com/2, "AnoGAN") 
+•[Multi-Granularity Tracking with Modularlized Components for Unsupervised Vehicles Anomaly Detection (CVPRW 2020)](https://hu-nie.tistory.com/2, "Traffic Accident") 
 
 <!--
 # International Papers
