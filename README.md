@@ -23,15 +23,54 @@ Here are some ideas to get you started:
 
 ***
 
+
+#Project
+
+• 『대학ICT연구센터지원사업』 2019.09.01~2021.12.31
+Human-inspired 복합지능 원천기술 연구 및 인력양성, Human-inspired AI & Computing 연구센터
+Research and Development of Human-inspired multiple intelligence
+
+#Competition
+
+• 동서대 창의아이디어 공모전, 지하철 좌석 알림 서비스, 2015
+
+• 동서대 Development Contest, VR 콘텐츠 제작 및 아두이노 기반의 하드웨어 제작, 2016, 우수상
+
+• 동서대 창의 아이디어 공모전, 스마트 공기 청정기, 2017, 우수상
+
+• 실전 창업 프로젝트, 스마트 공기 청정기, 2017
+
+• 청년 창업 한마당 투어, 삶의 질 향상을 위한 공공데이터 기반 스마트 생활관리 조명가습 시스템, 2017, 대상
+
+• 4차산업 혁명 선도를 위한 BM 고도화 창업 캠프, Echo-box, 2017, 우수상
+
+• 창의 도전형 SW R&D 지원사업, 실감형 서비스 제공을 위한 VR 테마파크 콘텐츠 개발, 2017
+
+• 학부생 연구 프로그램 URP, 실감형 서비스 제공을 위한 VR테마파크 콘텐츠 개발, 2017
+
+• 엑셀러레이팅 기반 창업 지원 사업, 1대가 10대 그 이상의 효과, 2017
+
+• 제 1회 한국 VR 해커톤, R 콘텐츠 제작 및 아두이노 기반의 하드웨어 제작, 2017, 최우수상(1등)
+
+• LG 씽큐 공모전, 씽큐를 활용한 층간소음 방지 시스템, 2017, 본선 진출
+
+• 동서대 졸업프로젝트, 홀로그래픽을 이용한 헬스케어 서비스, 2018, 우수상
+
+• 학부생 연구 프로그램 URP, 음성인식 및 라이파리를 화용한 스마트퍼포먼스 시스템–그림자 연극을 중심으로, 2018, 사업 선정
+
+• 장려상, 2019 빅데이터 분석 경진대회, 한밭대학교 LINC+ 사업단 빅데이터센터, 2019
+
+• 장려상, 2020 빅데이터 분석 경진대회, 한밭대학교 LINC+ 사업단 빅데이터센터, 2020
+
 # Honor and Awards
 
 • 우수논문상, 한국융합신호처리학회 2020년 하계학술대회, 2020.8.7.
 
 • 우수논문상, 2019년도 한국디지털정책학회 추계공동학술대회, 2019.11.30.
 
-• 장려상, 2019 빅데이터 분석 경진대회, 한밭대학교 LINC+ 사업단 빅데이터센터, 2019.11.14.
-
 # Conference Papers
+
+• 백지원, 신동훈, 정경용, 유현, 스트리밍에서 그래프를 이용한 범죄 상황 연관 지식 추출, 2021 한국인터넷정보학회 춘계학술발표대회, pp. 71-72, 경주, 2021.04.23.
 
 • 권혜정, 김민정, 강지수, 백지원, 신동훈, 정경용, GANomaly를 이용한 비지도학습 기반 포트홀 탐지 기술, 한국융합신호처리학회 2020년 하계학술대회, pp.82-83, 상지대학교, 2020.8.7.
 
@@ -46,6 +85,7 @@ Here are some ideas to get you started:
 
 # Domestic Papers
 
+• 신동훈, 백지원, 박찬홍, 정경용, 도로 CCTV 데이터를 활용한 딥러닝 기반 차량 이상 감지, 한국융합학회논문지, 제12권, 제2호, pp.1-6, 2021.2.
 • 신동훈, 김민정, 오상엽, 정경용, 다중상황의 군집분석과 연관규칙을 이용한 지식추론 모델, 한국융합학회논문지, 제10권, 제9호, pp.11-16, 2019.9.
 
 ***
@@ -67,7 +107,6 @@ Here are some ideas to get you started:
 • Dong Hoon Shin, Kyungyong Chung, Roy C. Park, "Detection of Emotion Using Multi-Block Deep Learning in a Self-Management Interview App", Applied Sciences, Vol.9, No.22, pp. 4830-4845, Nov 2019. https://doi.org/10.3390/app9224830
 
 • Dong-Hoon Shin, Roy C. Park, Kyungyong Chung, "Decision Boundary-Based Anomaly Detection Model using Improved AnoGAN From ECG Data", IEEE Access, Vol.8, No.1, pp. 108664-108674, 08 June 2020. https://doi.org/10.1109/ACCESS.2020.3000638
-
 
 • Dong-Hoon Shin, Kyungyong Chung, Roy C. Park, "Prediction of Traffic Congestion Based on LSTM through Correction of Missing Temporal and Spatial Data", IEEE Access, Vol.8, No.1, pp. 150784-150796, 13 Aug 2020. https://doi.org/10.1109/ACCESS.2020.3016469
 
