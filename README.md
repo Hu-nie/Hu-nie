@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 ***
 
 
-#Project
+# Project
 
 • 『대학ICT연구센터지원사업』 2019.09.01~2021.12.31
 Human-inspired 복합지능 원천기술 연구 및 인력양성, Human-inspired AI & Computing 연구센터
 Research and Development of Human-inspired multiple intelligence
 
-#Competition
+# Competition
 
 • 동서대 창의아이디어 공모전, 지하철 좌석 알림 서비스, 2015
 
