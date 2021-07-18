@@ -62,7 +62,7 @@ Research and Development of Human-inspired multiple intelligence
 
 • 장려상, 2020 빅데이터 분석 경진대회, 한밭대학교 LINC+ 사업단 빅데이터센터, 2020
 
-<--# Honor and Awards
+<!--# Honor and Awards
 
 • 우수논문상, 한국융합신호처리학회 2020년 하계학술대회, 2020.8.7.
 
@@ -111,7 +111,7 @@ Research and Development of Human-inspired multiple intelligence
 
 //• Dong-Hoon Shin, Kyungyong Chung, Roy C. Park, "Prediction of Traffic Congestion Based on LSTM through Correction of Missing Temporal and Spatial Data", IEEE Access, Vol.8, No.1, pp. 150784-150796, 13 Aug 2020. https://doi.org/10.1109/ACCESS.2020.3016469
 
-//• Seong-Eun Ryu, Dong-Hoon Shin, Kyungyong Chung, "Prediction Model of Dementia Risk Based on XGBoost Using Derived Variable Extraction and Hyper Parameter Optimization", IEEE Access, Vol.8, No.1, pp. 177708-177720, 21 Sep 2020. https://doi.org/10.1109/ACCESS.2020.3025553 -->
+• Seong-Eun Ryu, Dong-Hoon Shin, Kyungyong Chung, "Prediction Model of Dementia Risk Based on XGBoost Using Derived Variable Extraction and Hyper Parameter Optimization", IEEE Access, Vol.8, No.1, pp. 177708-177720, 21 Sep 2020. https://doi.org/10.1109/ACCESS.2020.3025553 -->
 
 
 
