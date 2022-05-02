@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Hu-nie github stats](https://github-readme-stats.vercel.app/api?username=Hu-nie&show_icons=true)
 
-
+<!--
 ***
 
 
@@ -62,7 +62,7 @@ Research and Development of Human-inspired multiple intelligence
 
 • 장려상, 2020 빅데이터 분석 경진대회, 한밭대학교 LINC+ 사업단 빅데이터센터, 2020
 
-<!--# Honor and Awards
+# Honor and Awards
 
 • 우수논문상, 한국융합신호처리학회 2020년 하계학술대회, 2020.8.7.
 
