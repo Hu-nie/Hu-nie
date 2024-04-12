@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hu-nie's Github%20render&fontSize=90)
-
 # About Me
 왜? 라는 질문속에서 답을 찾는 ‘데이터 배관공’ 신동훈입니다. 
 무수히 많은 데이터들이 적재적소에 잘 전달될 수 있도록 코드의 동작 원리를 파악하고 추후에 발생할 수 있는 문제들을 예측하는 직무를 수행하며 저로 인해 신속한 대응이 가능해지고 모든 프로세스가 효율적으로 바뀔 때 뿌듯함을 느꼈습니다. 현상에 집중하며 왜?라는 질문을 통해 끊임없는 학습을 이어가며 더 나은 개발자가 되고자 합니다.
